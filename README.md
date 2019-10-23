@@ -1,2 +1,2 @@
 # Tarea_3
-Desarrollo tarea imposible
+Se presenta desarrollo de tarea evaluada a comienzos del electivo.
